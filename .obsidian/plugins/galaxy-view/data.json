@@ -1,0 +1,286 @@
+{
+  "bloom": {
+    "strength": 0.35,
+    "radius": 0.35,
+    "threshold": 0.22
+  },
+  "physics": {
+    "repel": 170,
+    "linkDistance": 55,
+    "linkStrength": 1.1,
+    "centerPull": 0.05,
+    "flatten": 0.55,
+    "coreGravity": 0.1,
+    "spiral": 0.02
+  },
+  "look": {
+    "nodeSize": 0.85,
+    "linkOpacity": 0.24,
+    "linkCurve": 0.5,
+    "twinkle": 0.9,
+    "sizeBy": "degree"
+  },
+  "space": {
+    "nebula": 0.65,
+    "fieldStars": 0,
+    "clusterClouds": 0.55
+  },
+  "cruise": true,
+  "cruiseSpeed": 0.6,
+  "showUnresolved": false,
+  "showOrphans": true,
+  "showTags": false,
+  "tagLens": null,
+  "colorByTag": false,
+  "showTagHubs": false,
+  "tagHubLimit": 20,
+  "hiddenFolders": [
+    "raw"
+  ],
+  "filterQuery": "",
+  "showGhostEdges": false,
+  "showStarfield": true,
+  "colorTheme": "hubble",
+  "qualityOverride": "auto",
+  "preset": "deep-space",
+  "activePreset": "galaxy",
+  "customPresets": [],
+  "language": "auto",
+  "panelSections": {
+    "filter": true,
+    "nav": true,
+    "physics": true,
+    "space": true,
+    "bloom": true,
+    "look": true
+  },
+  "panelWidth": 300,
+  "hintsSeen": false,
+  "selectionDepth": 1,
+  "tour": {
+    "speed": 1
+  },
+  "colorGroups": [
+    {
+      "query": "path:wiki",
+      "color": "#46d4dc"
+    }
+  ],
+  "positionCache": {
+    "wiki/ktb/log.md": [
+      6.1,
+      -0.4,
+      44.9
+    ],
+    "wiki/ktb/ktb-vom-mobile.md": [
+      -49.8,
+      -0.2,
+      131.9
+    ],
+    "wiki/ktb/ktb-vom-api.md": [
+      -15.5,
+      19.4,
+      101.1
+    ],
+    "wiki/ktb/ktb-vom-mobile-offline.md": [
+      -23.9,
+      -4,
+      78.2
+    ],
+    "wiki/ktb/ktb-vom-admin.md": [
+      -6.3,
+      -2,
+      158.9
+    ],
+    "wiki/ktb/ktb-mz-turnike.md": [
+      105.3,
+      -20.5,
+      58.3
+    ],
+    "wiki/ktb/ktb-mz-sign.md": [
+      129.6,
+      -3.2,
+      157.7
+    ],
+    "wiki/ktb/ktb-mz-sign-service.md": [
+      24.4,
+      12.5,
+      160.9
+    ],
+    "wiki/ktb/ktb-mz-manage.md": [
+      110.3,
+      14.4,
+      134.9
+    ],
+    "wiki/ktb/ktb-mz-ios.md": [
+      96.4,
+      15.3,
+      52.8
+    ],
+    "wiki/ktb/ktb-mz-android.md": [
+      115,
+      -20.5,
+      115.6
+    ],
+    "wiki/ktb/ktb-myz-modules-architecture.md": [
+      142.7,
+      1.4,
+      38.4
+    ],
+    "wiki/ktb/ktb-myz-documentation-kit.md": [
+      89.6,
+      -1.1,
+      22.8
+    ],
+    "wiki/ktb/ktb-mys-apps.md": [
+      162.8,
+      -0.6,
+      94
+    ],
+    "wiki/ktb/ktb-muze-android.md": [
+      120,
+      18.4,
+      82.5
+    ],
+    "wiki/ktb/ktb-museum-react.md": [
+      -4.5,
+      -15.9,
+      114.6
+    ],
+    "wiki/ktb/ktb-dsm-sign.md": [
+      86.8,
+      2.3,
+      188.5
+    ],
+    "wiki/ktb/ktb-cloudformation.md": [
+      43.3,
+      -9.3,
+      178.2
+    ],
+    "wiki/ktb/index.md": [
+      48.4,
+      -4.7,
+      83.5
+    ],
+    "wiki/ktb/hub.md": [
+      56.5,
+      4.3,
+      112.8
+    ],
+    "wiki/saglik-kiosk/veri-yukleme-arayuzleri.md": [
+      28.2,
+      -15.1,
+      -100.5
+    ],
+    "wiki/saglik-kiosk/test-stratejisi.md": [
+      -59.1,
+      -7.1,
+      -83.3
+    ],
+    "wiki/saglik-kiosk/saglik-kiosk-app.md": [
+      -1.7,
+      1.9,
+      -195.4
+    ],
+    "wiki/saglik-kiosk/raycome-rbp7000-tansiyon.md": [
+      -150.3,
+      13,
+      -61.5
+    ],
+    "wiki/saglik-kiosk/olcum-oturumu.md": [
+      -123,
+      -6.5,
+      -145.6
+    ],
+    "wiki/saglik-kiosk/oem-ascii-protokolu.md": [
+      -101.2,
+      15.3,
+      -62.2
+    ],
+    "wiki/saglik-kiosk/lztek-anakart.md": [
+      4,
+      9.4,
+      -149.4
+    ],
+    "wiki/saglik-kiosk/log.md": [
+      -18.7,
+      0.4,
+      -61.9
+    ],
+    "wiki/saglik-kiosk/kiosk-ui-akisi.md": [
+      -69.7,
+      -7.4,
+      -174.5
+    ],
+    "wiki/saglik-kiosk/index.md": [
+      -60.1,
+      -21.4,
+      -120.8
+    ],
+    "wiki/saglik-kiosk/inbca-urun-katalogu.md": [
+      -40,
+      -22.4,
+      -57.6
+    ],
+    "wiki/saglik-kiosk/hub.md": [
+      -68.9,
+      19.5,
+      -107.4
+    ],
+    "wiki/saglik-kiosk/hexagonal-mimari.md": [
+      -45.3,
+      16.3,
+      -169.7
+    ],
+    "wiki/saglik-kiosk/hetaida-htd8808c-ates.md": [
+      -136.2,
+      -16.9,
+      -92.1
+    ],
+    "wiki/saglik-kiosk/gelistirme-sureci.md": [
+      33.6,
+      5.7,
+      -133.9
+    ],
+    "wiki/saglik-kiosk/gelistirici-rehberi-cpp-qt.md": [
+      0.1,
+      1.5,
+      -86.7
+    ],
+    "wiki/saglik-kiosk/fizibilite-raporu.md": [
+      -9.9,
+      27.8,
+      -108.9
+    ],
+    "wiki/saglik-kiosk/dyp-h01-boy.md": [
+      -141.3,
+      -11.2,
+      -46.9
+    ],
+    "wiki/saglik-kiosk/figma-ekran-tasarimi.md": [
+      -63.5,
+      10,
+      -51.1
+    ],
+    "wiki/saglik-kiosk/faz2-yazici-vucut-analizi-yukleme.md": [
+      -7,
+      -23.5,
+      -147.6
+    ],
+    "wiki/saglik-kiosk/donanim-kesfi-ve-usb.md": [
+      -99.9,
+      13.9,
+      -140
+    ],
+    "wiki/saglik-kiosk/berrymed-ys2000a-spo2.md": [
+      -163,
+      4.3,
+      -115.4
+    ],
+    "CLAUDE.md": [
+      -66.4,
+      -0.1,
+      -274
+    ]
+  }
+}

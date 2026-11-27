@@ -1,0 +1,10 @@
+{
+	"id": "notice-logger",
+	"name": "Notice logger",
+	"version": "0.1.10",
+	"minAppVersion": "1.13.0",
+	"description": "Logs all notices to the developer console, with optional prefix and timestamp.",
+	"author": "@gapmiss",
+	"authorUrl": "https://github.com/gapmiss",
+	"isDesktopOnly": true
+}
